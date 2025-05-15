@@ -154,5 +154,3 @@ Para fins de avaliação técnica.
 
 Caso queira entrar em contato, envie um e-mail para: `kp827767@gmail.com`
 
-```
-
